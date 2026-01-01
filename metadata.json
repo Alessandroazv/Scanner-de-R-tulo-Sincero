@@ -1,0 +1,5 @@
+{
+  "name": "Nutri Sincero",
+  "description": "An AI-powered nutrition expert that analyzes food packaging to reveal the truth behind marketing claims. Upload images of a food product, state your health goal, and get a brutally honest, science-based verdict to avoid 'health-washing'.",
+  "requestFramePermissions": []
+}
